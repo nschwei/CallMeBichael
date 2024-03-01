@@ -8,3 +8,4 @@ Survive as guys spawn and try to blow up/shoot/smash you for as long as you can
 
 #### Player controller
 Kinematic player controller - For now mostly finished. Still unideal tilting behavior, but oh well.
+![](https://github.com/CallMeBichael/PC_Clip.mp4)
