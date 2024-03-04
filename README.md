@@ -11,10 +11,18 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 ![](https://github.com/nschwei/CallMeBichael/blob/main/PC_Clip.gif)
 
 #### TODO:
-- Enemies (3 types?)
-- Spawn at edges of the screen
-- City Map
-- Timer
-- Kill count?
+- Enemies (3 types?) [1 Done]
+- Spawn at edges of the screen [Done]
+- City Map 
+- Timer [Done]
+- Kill count? [Done]
 - Menus
-- Models for everyting...
+     - Main Menu
+     - Death screen [Done]
+     - Pause Menu
+- Models for everything...
+     - Bike
+     - Enemies
+     - Buildings
+- Bike Trail
+- Enemy Explode Warning Effect
