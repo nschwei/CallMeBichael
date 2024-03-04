@@ -19,11 +19,11 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Menus
      - Main Menu
      - Death screen [Done]
-     - Pause Menu
+     - Pause Menu [Done]
 - Models for everything...
      - Bike
      - Enemies
-     - Buildings / city
+     - Buildings/city
      - Roads
 - Bike Trail
 - Enemy Explode Warning Effect
