@@ -13,7 +13,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 #### TODO:
 - Enemies (3 types?) [1 Done]
 - Spawn at edges of the screen [Done]
-- City Map 
+- City Map --> See models
 - Timer [Done]
 - Kill count? [Done]
 - Menus
@@ -23,6 +23,8 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Models for everything...
      - Bike
      - Enemies
-     - Buildings
+     - Buildings / city
+     - Roads
 - Bike Trail
 - Enemy Explode Warning Effect
+- Lighting?
