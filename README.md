@@ -20,9 +20,11 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Timer [Done]
 - Kill count? [Done]
 - Menus
-     - Main Menu
+     - Main Menu [Done]
      - Death screen [Done]
      - Pause Menu [Done]
+     - Options Menu []
+     - Credits Screen []
 - Models for everything...
      - Bike
      - Enemies
