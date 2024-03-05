@@ -17,7 +17,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 ![](https://github.com/nschwei/CallMeBichael/blob/main/ShootingEnemy.gif)
 
 #### TODO:
-- Enemies (3 types?) [1 Done]
+- Enemies (3 types?) [2 Done?]
      - (If time) Feelers to reduce enemy clumping []
 - Spawn at edges of the screen [Done]
 - City Map --> See models
