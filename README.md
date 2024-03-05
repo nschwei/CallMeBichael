@@ -13,6 +13,9 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 #### Enemies and Menus Progress
 ![](https://github.com/nschwei/CallMeBichael/blob/main/EnemiesAndMenu.gif)
 
+#### Shooting enemy added
+![](https://github.com/nschwei/CallMeBichael/blob/main/ShootingEnemy.gif)
+
 #### TODO:
 - Enemies (3 types?) [1 Done]
      - (If time) Feelers to reduce enemy clumping []
