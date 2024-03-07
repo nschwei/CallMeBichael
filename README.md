@@ -24,7 +24,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - (If time) Feelers to reduce enemy clumping []
      - Shooting enemy prediction is too flakey since we change speed really fast (just remove prediction?) [Done]
      - Make the projectile explode []
-     - Hitting enemy slows you? []
+     - Hitting enemy slows you? [Done] (Just re-enabled collision)
 - Spawn at edges of the screen [Done]
 - City Map --> See models
 - Timer [Done]
