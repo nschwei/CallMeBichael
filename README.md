@@ -17,7 +17,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 ![](https://github.com/nschwei/CallMeBichael/blob/main/ShootingEnemy.gif)
 
 #### Bike model added. Need to fix animations
-![](https://github.com/nschwei/CallMeBichael/blob/main/BikeModel.gif)
+![](https://github.com/nschwei/CallMeBichael/blob/main/BikeNewAnim.gif)
 
 #### TODO:
 - Enemies (3 types?) [2 Done?]
