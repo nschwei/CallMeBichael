@@ -35,10 +35,11 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - Options Menu []
      - Credits Screen []
 - Models for everything...
-     - Bike
+     - Bike [Still needs animations fixed?]
      - Enemies
      - Buildings/city
      - Roads
 - Bike Trail
 - Enemy Explode Warning Effect
+- Enemy Shooting Effect
 - Lighting?
