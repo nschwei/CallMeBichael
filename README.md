@@ -28,8 +28,8 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Spawn at edges of the screen [Done]
 - City Map --> See models
 - Timer [Done]
-     - Raise enemy Cap as time goes on []
-     - Spawn new enemy type after a certain time []
+     - Raise enemy Cap as time goes on [Done]
+     - Spawn new enemy type after a certain time [Done]
 - Kill count? [Done]
 - Menus
      - Main Menu [Done]
