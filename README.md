@@ -30,6 +30,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - Hitting enemy slows you? [Done] (Just re-enabled collision)
 - Spawn at edges of the screen [Done]
 - City Map --> See models
+- Water Killbox for the canals? []
 - Timer [Done]
      - Raise enemy Cap as time goes on [Done]
      - Spawn new enemy type after a certain time [Done]
@@ -43,7 +44,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Models for everything...
      - Bike [Done?]
      - Enemies []
-     - Buildings/city []
+     - Buildings/city [Done]
      - Roads []
 - Bike Trail []
 - Enemy Explode Warning Effect []
