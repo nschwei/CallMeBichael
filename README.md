@@ -22,6 +22,9 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 #### Added Map
 ![](https://github.com/nschwei/CallMeBichael/blob/main/MapDone.gif)
 
+#### Enemy models and animations
+![](https://github.com/nschwei/CallMeBichael/blob/main/EnemyExample.gif)
+
 #### TODO:
 - Enemies (3 types?) [2 Done?]
      - (If time) Feelers to reduce enemy clumping []
