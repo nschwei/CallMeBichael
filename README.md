@@ -27,7 +27,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 
 #### TODO:
 - Enemies (3 types?) [2 Done?]
-     - (If time) Feelers to reduce enemy clumping []
+     - (If time) Feelers to reduce enemy clumping [Not Doing]
      - Shooting enemy prediction is too flakey since we change speed really fast (just remove prediction?) [Done]
      - Make the projectile explode [Done]
      - Hitting enemy slows you? [Done] (Just re-enabled collision)
@@ -46,9 +46,9 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - Credits Screen []
 - Models for everything...
      - Bike [Done?]
-     - Enemies []
+     - Enemies [Done]
      - Buildings/city [Done]
-     - Roads []
+     - Roads [Done]
 - Sounds!
      - Bike sound []
      - BG music []
