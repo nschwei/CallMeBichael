@@ -58,8 +58,8 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - Shoot sounds [Done]
      - explosion sounds [Done]
      -  
-- Bike Trail []
+- Bike Trail [Done]
 - Speed lines? []
 - Enemy Explode Warning Effect []
 - Enemy Shooting Effect []
-- Lighting? []
+- Lighting? [Done?]
