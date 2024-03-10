@@ -52,6 +52,7 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
 - Sounds!
      - Bike sound []
      - BG music []
+     - Shoot sounds []
      - explosion sounds []
      -  
 - Bike Trail []
