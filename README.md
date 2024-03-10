@@ -50,10 +50,10 @@ Kinematic player controller - For now mostly finished. Still unideal tilting beh
      - Buildings/city [Done]
      - Roads [Done]
 - Sounds!
-     - Bike sound []
+     - Bike sound [?]
      - BG music []
-     - Shoot sounds []
-     - explosion sounds []
+     - Shoot sounds [Done]
+     - explosion sounds [Done]
      -  
 - Bike Trail []
 - Speed lines? []
